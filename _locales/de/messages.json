@@ -76,8 +76,7 @@
     "description": ""
   },
   "getFavicons": {
-    "message": "Sammle Favicons mit der 
-'besticon'-Programmierschnittstelle",
+    "message": "Sammle Favicons mit der 'besticon'-Programmierschnittstelle",
     "description": ""
   },
   "note": {
@@ -93,8 +92,7 @@
     "description": ""
   },
   "warning": {
-    "message": "Warnung: Beachte, dass die Aktivierung dieser 
-Funktion verhindert, dass Kontextmenüs anderer Erweiterungen angezeigt werden.",
+    "message": "Warnung: Beachte, dass die Aktivierung dieser Funktion verhindert, dass Kontextmenüs anderer Erweiterungen angezeigt werden.",
     "description": ""
   },
   "savePreferences": {
